@@ -12,3 +12,6 @@ Using Android studio + Java to implement an App.
 
 ## Write a user instruction guide
 
+
+## Work with Graphic designer to create the pictures 
+
